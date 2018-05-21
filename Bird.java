@@ -8,7 +8,7 @@ public abstract class Bird { //abstract class
 	
 	public void fly()
 	{
-		System.out.println("hi");
+		System.out.println("Bird fly higher and higher");
 	}
 
 
